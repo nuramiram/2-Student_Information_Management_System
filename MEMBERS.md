@@ -2,7 +2,7 @@
 
 ## Group Members
 
-- Banaglorioso, Marron A.
+- Banaglorioso, Marron A. - Leader
 - 
 - 
 -
