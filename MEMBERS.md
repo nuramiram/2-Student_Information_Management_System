@@ -8,3 +8,11 @@
 -
 -
 -
+
+## Technology Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Web Browser: Google Chrome
+- Code Editor: Visual Studio Code
