@@ -1,1 +1,0 @@
-# 2-Student_Information_Management_System
