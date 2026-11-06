@@ -6,7 +6,7 @@
 - 
 - 
 - 
-- Gutierrez, Manuel Ivan D. - Yummy Member
+- Gutierrez, Manuel Ivan D. - Hot Yummy Member
 -
 -
 
