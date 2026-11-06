@@ -6,7 +6,7 @@
 - 
 - 
 - 
-- Gutierrez, Manuel Ivan D. - Co-Leader
+- Gutierrez, Manuel Ivan D. - Yummy Member
 -
 -
 
