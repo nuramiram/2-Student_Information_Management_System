@@ -8,7 +8,7 @@
 - 
 - Gutierrez, Manuel Ivan D. - Hot Yummy Member
 -
--Villaver, Rich Mhyc C. - Member
+- Villaver, Rich Mhyc C. - Member
 
 ## Technology Stack
 
