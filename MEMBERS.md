@@ -5,10 +5,14 @@
 - Banaglorioso, Marron A. - Leader
 - Barnedo, Jennifer S. - member
 - 
+- Gica, Ram Ceasar Philip G. - member
+- Reton, Nino - member
 - 
 - Gutierrez, Manuel Ivan D. - Hot Yummy Member
 -
 - Villaver, Rich Mhyc C. - Member
+- Tangarorang, Maui Alexander T. - Member
+-
 
 ## Technology Stack
 
