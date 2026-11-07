@@ -6,6 +6,8 @@
 - Barnedo, Jennifer S. - member
 - 
 - Gica, Ram Ceasar Philip G. - member
+- Reton, Nino - member
+- 
 - Gutierrez, Manuel Ivan D. - Hot Yummy Member
 -
 -
