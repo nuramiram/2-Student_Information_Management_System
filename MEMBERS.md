@@ -3,16 +3,12 @@
 ## Group Members
 
 - Banaglorioso, Marron A. - Leader
-- Barnedo, Jennifer S. - member
-- 
-- Gica, Ram Ceasar Philip G. - member
-- Reton, Nino - member
-- 
+- Barnedo, Jennifer S. - Member- 
+- Gica, Ram Ceasar Philip G. - Member
 - Gutierrez, Manuel Ivan D. - Hot Yummy Member
--
-- Villaver, Rich Mhyc C. - Member
+- Reton, Nino - Member
 - Tangarorang, Maui Alexander T. - Member
--
+- Villaver, Rich Mhyc C. - Member 
 
 ## Technology Stack
 
