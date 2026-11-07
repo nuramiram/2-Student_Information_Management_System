@@ -7,7 +7,7 @@
 - 
 - 
 - Gutierrez, Manuel Ivan D. - Hot Yummy Member
--
+- Tangarorang, Maui Alexander T. - Member
 -
 
 ## Technology Stack
