@@ -5,7 +5,7 @@
 - Banaglorioso, Marron A. - Leader
 - Barnedo, Jennifer S. - member
 - 
-- 
+- Gica, Ram Ceasar Philip G. - member
 - Gutierrez, Manuel Ivan D. - Hot Yummy Member
 -
 -
