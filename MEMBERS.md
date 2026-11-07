@@ -4,7 +4,7 @@
 
 - Banaglorioso, Marron A. - Leader
 - Barnedo, Jennifer S. - member
-- 
+- Reton, Nino - member
 - 
 - Gutierrez, Manuel Ivan D. - Hot Yummy Member
 -
